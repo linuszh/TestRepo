@@ -1,0 +1,23 @@
+{
+  "name": "next-app",
+  "version": "1.0.0",
+  "description": "A modern web application using the Next.js framework with image upload and gallery feature",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["next.js", "react", "typescript", "image upload", "gallery"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
